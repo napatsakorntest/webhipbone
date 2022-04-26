@@ -1,0 +1,9 @@
+
+train: /content/datatrain_yolo_real_lasted/images/train  # train images (relative to 'path') 
+val: /content/datatrain_yolo_real_lasted/images/val  # val images (relative to 'path') 
+
+# Classes
+nc: 2  # number of classes
+names: ['Fracture', 'Normal']  # class names
+
+
